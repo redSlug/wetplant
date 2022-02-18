@@ -1,1 +1,24 @@
 # wetplant
+
+
+## BOM
+- [raspbeerry pi](https://www.adafruit.com/product/3708)
+- [jumper cables](https://www.digikey.com/en/products/filter/jumper-wire/640)
+- [SparkFun Soil Moisture Sensor](https://www.sparkfun.com/products/13322)
+- [ADS1015](https://www.adafruit.com/product/1083)
+
+## Hardware Setup
+- [Connect ADS1015 to Raspberry pi](https://learn.adafruit.com/adafruit-4-channel-adc-breakouts/python-circuitpython)
+- [Connect Moisture sensor data pin to ADS1015](https://learn.sparkfun.com/tutorials/soil-moisture-sensor-hookup-guide)
+
+## Software Setup
+- [configure i2c](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-4-gpio-setup/configuring-i2c)
+- [install Python 3.7 and pip3](https://projects.raspberrypi.org/en/projects/generic-python-install-python3)
+- [install ADS1x15](https://github.com/adafruit/Adafruit_CircuitPython_ADS1x15)
+- [install CircuitPython](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/installing-circuitpython-on-raspberry-pi)
+- clone this repo
+
+## Run
+```shell
+python3 ads_1015.py
+```
