@@ -18,6 +18,9 @@
 - [install CircuitPython](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/installing-circuitpython-on-raspberry-pi)
 - clone this repo
 
+## System Diagram
+![image](https://user-images.githubusercontent.com/100881577/164335028-f254804b-b343-4638-8664-fd0adc0ec752.png)
+
 ## Run
 ```shell
 python3 ads_1015.py
