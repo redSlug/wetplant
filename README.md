@@ -20,6 +20,7 @@
 
 ## System Diagram
 ![image](https://user-images.githubusercontent.com/100881577/164335028-f254804b-b343-4638-8664-fd0adc0ec752.png)
+[diagram](https://lucid.app/lucidchart/2eec7ba2-0517-498e-aeae-fe33b89c26c0/edit?invitationId=inv_d6d0301f-1a2d-41be-aa62-abd66d372e15&page=0_0#)
 
 ## Run
 ```shell
