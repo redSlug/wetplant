@@ -21,6 +21,7 @@ def get_data():
 def rasp_print(value, voltage):
     print(f"value={value}, voltage={voltage}")
 
+
 if __name__ == '__main__':
     count = 20
     while count:
@@ -32,5 +33,6 @@ if __name__ == '__main__':
             print("your plant is hydrated")
         elif data.voltage < 3.3:
             print("your plant is dry")
+            
         sleep(2)
         count -= 1
