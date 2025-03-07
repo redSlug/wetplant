@@ -11,6 +11,8 @@
 - [Connect ADS1015 to Raspberry pi](https://learn.adafruit.com/adafruit-4-channel-adc-breakouts/python-circuitpython)
 - [Connect Moisture sensor data pin to ADS1015](https://learn.sparkfun.com/tutorials/soil-moisture-sensor-hookup-guide)
 
+![wetplant.png](wetplant.png)
+
 ## Software Setup
 - [configure i2c](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-4-gpio-setup/configuring-i2c)
 - [install Python 3.7 and pip3](https://projects.raspberrypi.org/en/projects/generic-python-install-python3)
