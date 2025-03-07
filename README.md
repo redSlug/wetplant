@@ -27,3 +27,7 @@
 ```shell
 python3 ads_1015.py
 ```
+## Debug
+```shell
+sudo i2cdetect -y 1
+```
